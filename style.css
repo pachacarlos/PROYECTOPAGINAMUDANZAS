@@ -17,12 +17,30 @@ h1{
     background-color: white;
 }
 
-.camionMudanza {
+.camionMudanza1 {
+    margin: 30px 30px 30px 30px;
+    padding: 30px 30px 30px 30px;
+    width: 450px;
+    transform: rotate(-15deg);
+    
+}
+
+.camionMudanza2{
+    margin: 30px 30px 30px 30px;
+    padding: 30px 30px 30px 30px;
+    width: 450px;
+    transform: rotate(10deg);
+
+}
+
+
+
+.camionMudanza3 {
     margin: 30px 30px 30px 30px;
     padding: 30px 30px 30px 30px;
     width: 450px;
     transform: rotate(15deg);
-    
+
 }
 
 
